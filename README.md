@@ -28,9 +28,7 @@
 
 <br/>
 
-<a href="https://github.com/yonnnxr" title="Perfil do Carlos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yonnnxr&theme=dracula&show_icons=true" />
-</a>
+[![Carlos](https://github-readme-stats.vercel.app/api/top-langs/?username=yonnnxr&hide=html&layout=compact&theme=default)]
 
 ## Onde me encontrar
 
