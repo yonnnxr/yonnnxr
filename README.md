@@ -29,5 +29,5 @@
 <br/>
 
 ## Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/-Carlos_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yonnnxr)](www.linkedin.com/in/yonnnxr)
+[![Linkedin](https://img.shields.io/badge/-Carlos_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yonnnxr)](https://www.linkedin.com/in/yonnnxr)
 [![Gmail Badge](https://img.shields.io/badge/-carlosborges2007edu@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosborges2007edu@gmail.com)](mailto:carlosborges2007edu@gmail.com)
