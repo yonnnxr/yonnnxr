@@ -28,8 +28,6 @@
 
 <br/>
 
-[![yonnnxr](https://github-readme-stats.vercel.app/api/top-langs/?username=yonnnxr&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Carlos_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/carlos-eduardo-52a34930a)](www.linkedin.com/in/carlos-eduardo-52a34930a)
