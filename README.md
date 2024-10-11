@@ -28,7 +28,7 @@
 
 <br/>
 
-[![Carlos](https://github-readme-stats.vercel.app/api/top-langs/?username=yonnnxr&hide=html&layout=compact&theme=default)]
+![Carlos](https://github-readme-stats.vercel.app/api/top-langs/?username=yonnnxr&hide=html&layout=compact&theme=default)
 
 ## Onde me encontrar
 
