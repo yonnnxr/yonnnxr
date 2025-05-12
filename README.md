@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Desenvolvimento de sistemas no Senac Hub Academy.
-- 💼 Procurando um emprego.
+- 💼 Estagiando em Desenvolvimento De Sistemas.
 - 🌱 Aprendendo mais sobre Javascript, C++ e PHP.
 
 ## Minhas Skills
