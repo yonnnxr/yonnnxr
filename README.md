@@ -39,14 +39,6 @@
 
 ---
 
-## 🏆 GitHub Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yonnnxr&theme=onedark&row=1&column=6" />
-</p>
-
----
-
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-Carlos_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yonnnxr)
