@@ -30,15 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yonnnxr&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonnnxr&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-Carlos_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yonnnxr)
