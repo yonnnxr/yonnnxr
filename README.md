@@ -17,10 +17,10 @@ name:        Carlos Eduardo
 alias:       yonnnxr / kernely
 role:        Full Stack Developer & Offensive Security Researcher
 location:    Campo Grande, MS — Brasil 🇧🇷
-education:   Análise e Desenvolvimento de Sistemas @ Faculdade Senac MS
+education:   Análise e Desenvolvimento de Sistemas / Defesa Cibernetica
 focus:       [ red team, bug bounty, automação ofensiva, agentic tooling ]
 learning:    AI-assisted security workflows
-achievement: NASA Hall of Fame — RCE crítico
+achievement: NASA Hall of Fame — RCE (Remote Code Execution)
 ```
 
 ---
