@@ -1,41 +1,75 @@
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=yonnnxr&color=006bed)
+<div align="center">
 
-# 👨‍💻 Carlos Eduardo | @yonnnxr
+<img src="https://readme-typing-svg.demolab.com/?lines=Carlos+Eduardo+%7C+kernely;Full+Stack+Dev+%26+Offensive+Security;Bug+Bounty+%7C+Red+Team+%7C+Automation&font=Fira+Code&size=28&color=006BED&center=true&vCenter=true&width=600&height=60&pause=1000" alt="typing" />
 
-- 🎓 Estudante de Desenvolvimento de Sistemas no **Senac Hub Academy**
-- 💼 Estagiando como Desenvolvedor de Sistemas
-- 🌱 Aprimorando habilidades em **JavaScript**, **C++** e **PHP**
-- 🚀 Apaixonado por tecnologia, design e soluções criativas
+![Profile Views](https://komarev.com/ghpvc/?username=yonnnxr&color=006bed&style=flat-square&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kernely)
 
----
+</div>
 
-## ⚒️ Tech Stack
+```bash
+┌──(carlos㉿kernely)-[~]
+└─$ whoami
+```
 
-### Linguagens mais usadas
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Outras Tecnologias e Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+```yaml
+name:        Carlos Eduardo
+alias:       yonnnxr / kernely
+role:        Full Stack Developer & Offensive Security Researcher
+location:    Campo Grande, MS — Brasil 🇧🇷
+education:   Análise e Desenvolvimento de Sistemas @ Faculdade Senac MS
+focus:       [ red team, bug bounty, automação ofensiva, agentic tooling ]
+learning:    AI-assisted security workflows
+achievement: NASA Hall of Fame — RCE crítico
+```
 
 ---
 
-## 🌐 Contato
+## `~/tech-stack`
 
-[![LinkedIn](https://img.shields.io/badge/-Carlos_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yonnnxr)
-[![Gmail](https://img.shields.io/badge/-carlosborges2007edu@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:carlosborges2007edu@gmail.com)
+<div align="center">
+
+**Dev**
+
+[![Dev](https://skillicons.dev/icons?i=python,nodejs,react,ts,php,html,css&theme=dark)](https://skillicons.dev)
+
+**Ops & Ferramentas**
+
+[![Ops](https://skillicons.dev/icons?i=linux,bash,docker,git,vscode,postgres,nginx&theme=dark)](https://skillicons.dev)
+
+**Security**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali" height="48" alt="Kali" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="42" alt="Burp Suite" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="42" alt="Wireshark" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="42" alt="Metasploit" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="42" alt="Hack The Box" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="42" alt="TryHackMe" />
+</p>
+
+</div>
 
 ---
 
-✨ Obrigado por visitar meu perfil!
+## `~/github-stats`
 
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com/?user=yonnnxr&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=006bed&fire=006bed&currStreakLabel=006bed)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+└─$ echo "Sempre quebrando pra entender, sempre construindo pra melhorar."
+```
+
+</div>
