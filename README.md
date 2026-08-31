@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Carlos+Eduardo+%7C+kernely;Full+Stack+Dev+%26+Offensive+Security;Bug+Bounty+%7C+Red+Team+%7C+Automation&font=Fira+Code&size=28&color=006BED&center=true&vCenter=true&width=600&height=60&pause=1000" alt="typing" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=yonnnxr&color=006bed&style=flat-square&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kernely)
 
 </div>
 
